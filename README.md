@@ -28,7 +28,7 @@
       </a>
       <br/>
       <b>Flowpad (Langware)</b><br/>
-      <sub>AI integration platform for organizations with agentic capabilities for workspace management. Built custom monorepo architecture with shared design system.</sub><br/>
+      <sub>AI integration app for orgs with agentic capabilities for workspace management. Built custom monorepo architecture with shared design system.</sub><br/>
       🔗 <a href="https://flowpad.ai">Live Demo</a>
       <br/>
       <sub>Tags: React, Vite, TypeScript, AI, Monorepo</sub>
