@@ -54,7 +54,7 @@
       </a>
       <br/>
       <b>Blitz</b><br/>
-      <sub>Led development of Blitz's game analytics desktop app using Electron and React, supporting major titles like Valorant and League of Legends.</sub><br/>
+      <sub>Led development of Blitz's app using Electron and React, supporting major titles like Valorant and League of Legends.</sub><br/>
       🔗 <a href="https://blitz.gg">Live Demo</a>
       <br/>
       <sub>Tags: Electron, React, Game Analytics, Riot APIs</sub>
