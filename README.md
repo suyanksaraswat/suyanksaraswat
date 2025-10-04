@@ -1,5 +1,5 @@
 # 🚀 Suyank Saraswat
-**`Full-time Frontend Explorer & Occasional Developer`** 
+**`Full-time Frontend Explorer`** 
 
 ## About Me
 - I build, ship, and scale impactful products using modern technologies
@@ -65,16 +65,12 @@
 ---
 
 ## Stats
-<!-- Stats card by anuraghazra/github-readme-stats -->
-![Suyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyanksaraswat&show_icons=true&theme=gruvbox)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyanksaraswat&layout=compact&theme=gruvbox)
 
 ---
 
 ## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns -->
-- [**Portfolio**](https://suyanksaraswat.dev)
+- [**Portfolio**](https://suyanksaraswat.vercel.app)
 - [**Contact**](mailto:suyank.saraswat@gmail.com)
 
 <a href="https://www.linkedin.com/in/suyanksaraswat/" target="blank">
@@ -90,7 +86,6 @@
 ---
 
 ## Recent Activity
-<!-- GitHub activity graph -->
 ![Suyank's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suyanksaraswat&theme=gruvbox&hide_border=true&area=true)
 
 ---
