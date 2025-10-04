@@ -16,13 +16,13 @@
 
 ---
 
-## Featured Projects
+## Featured Contributions
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://flowpad.ai">
-        <img src="https://github.com/suyanksaraswat/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455"
+        <img src="./flowpad.png"
              alt="Flowpad AI Platform"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -35,7 +35,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://www.segwise.ai">
-        <img src="https://github.com/suyanksaraswat/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455"
+        <img src="./segwise.png"
              alt="Segwise Analytics"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -48,7 +48,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://blitz.gg">
-        <img src="https://github.com/suyanksaraswat/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455"
+        <img src="./blitz.png"
              alt="Blitz Game Analytics"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
